@@ -1,0 +1,4 @@
+mov #5,r2
+mov #6,r4
+mov #5,r2
+stop
